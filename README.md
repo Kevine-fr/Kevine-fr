@@ -1,176 +1,134 @@
-<div align="center">
 
-# 👨‍💻 Kevine DIANTOUADI-FRAY
+# 📊 GitHub Activity & Stats
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Flutter+Developer;Full+Stack+Developer;Microservices+Architecture;Laravel+%26+Node.js+Expert;Kafka+%7C+Socket.IO+%7C+Docker;Clean+Architecture+Enthusiast" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevine-fr&theme=react-dark&hide_border=true" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevine-fr&theme=tokyonight" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20•%20Laravel%20•%20Node.js%20•%20Microservices&descAlignY=58"/>
+<table align="center">
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kevine-fr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
 
-<br>
+<td>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kevine-fr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=Kevine-fr&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevine-fr&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://img.shields.io/github/followers/Kevine-fr?style=for-the-badge&color=blue&labelColor=black"/>
-
-<img src="https://img.shields.io/github/stars/Kevine-fr?style=for-the-badge&color=yellow&labelColor=black"/>
-
-</div>
-
----
-
-# ⚡ About Me
-
-<img align="right" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```yaml
-name: Kevine DIANTOUADI-FRAY
-located_in: France
-current_focus:
-  [
-    "Flutter",
-    "Microservices",
-    "Kafka",
-    "Socket.IO",
-    "Scalable Backend"
-  ]
-
-backend:
-  [
-    "Laravel",
-    "Node.js",
-    "Spring Boot"
-  ]
-
-frontend:
-  [
-    "Flutter",
-    "React.js",
-    "Next.js"
-  ]
-
-architecture:
-  [
-    "Microservices",
-    "API Gateway",
-    "Clean Architecture",
-    "MVVM"
-  ]
-
-databases:
-  [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL",
-    "Realm"
-  ]
-```
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevine-fr&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-# 🚀 Tech Stack
+# 👋 Kevine DIANTOUADI-FRAY  
+### Développeur Full Stack Web/Mobile • Flutter • Laravel • Node.js • Microservices
 
-<div align="center">
-
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-
----
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,ts,js" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full+Stack+Developer;Laravel+%26+Node.js+Developer;Microservices+Architecture;Kafka+%7C+Socket.IO+%7C+Docker" />
+</p>
 
 ---
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" />
+# 🚀 À propos
+
+Développeur passionné spécialisé dans le développement d’applications **Web, Mobile et Backend** avec une forte orientation vers les architectures modernes :  
+
+- ⚡ Microservices  
+- 🔄 Temps réel avec Socket.IO  
+- 📨 Kafka Event Streaming  
+- 🔐 Authentification JWT  
+- ☁️ Cloud & Déploiement  
+- 📱 Flutter Cross-platform  
+
+Je développe des applications scalables avec :
+
+- **Flutter**
+- **Laravel**
+- **Node.js**
+- **React.js**
+- **PostgreSQL**
+- **MongoDB**
+- **Kafka**
+- **Docker**
 
 ---
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+# 🧰 Stack & Outils
+
+## 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+## 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+## ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" />
+</p>
+
+## 🗄️ Bases de données
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+## ☁️ DevOps & Outils
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,firebase" />
+</p>
+
+## 🔌 Temps réel & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
 
 ---
 
-### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,linux,vscode" />
+# 💼 Projets Réels
 
 ---
 
-### 🔌 Realtime & Architecture
-<img src="https://skillicons.dev/icons?i=kafka" />
+## 🩺 Plateforme de recrutement médical (Microservices)
 
-</div>
+Application complète de recrutement spécialisée dans le domaine médical avec architecture microservices.
 
----
+### ⚙️ Fonctionnalités
 
-# 📊 GitHub Analytics
+- Authentification JWT sécurisée
+- Gestion candidats & recruteurs
+- Messagerie temps réel avec Socket.IO
+- Notifications push
+- Suivi des utilisateurs en ligne
+- Conversations temps réel
+- Upload médias via Cloudinary
+- API Gateway centralisée
+- Communication interservices avec Kafka
 
-<div align="center">
+### 🏗️ Architecture
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kevine-fr&custom_title=Kevine's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=37BCF6&point=FFFFFF&area=true&hide_border=true"/>
+- Frontend Mobile : Flutter (MVVM + Realm)
+- Frontend Admin : React.js
+- Auth Service : Laravel + PostgreSQL
+- Chat Service : Node.js + MongoDB
+- API Gateway : Node.js
+- Messaging Queue : Kafka
+- Temps réel : Socket.IO
 
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kevine-fr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevine-fr&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br><br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevine-fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
-
-<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevine-fr&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kevine-fr&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Kevine-fr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevine-fr&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevine-fr&theme=tokyonight"/>
-
-</div>
-
----
-
-# 💼 Real Projects
-
----
-
-## 🩺 Medical Recruitment Platform — Microservices Architecture
-
-<img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge"/>
-
-Complete recruitment platform specialized in the medical sector.
-
-### ✨ Features
-
-- 🔐 JWT Authentication
-- 💬 Real-time Messaging
-- 🔔 Push Notifications
-- 👤 Online Presence Tracking
-- ☁️ Media Upload via Cloudinary
-- 🌐 API Gateway
-- 📨 Kafka Event Communication
-- ⚡ Real-time Conversations
-
-### 🛠️ Stack
+### 📦 Stack
 
 ```txt
 Flutter • Laravel • Node.js • PostgreSQL • MongoDB
@@ -179,21 +137,22 @@ Kafka • Socket.IO • Cloudinary • JWT • React.js
 
 ---
 
-## 💬 WhatsApp-like Messaging System
+## 💬 Application de messagerie temps réel
 
-Modern real-time chat application inspired by WhatsApp.
+Développement d’un système de messagerie moderne inspiré de WhatsApp.
 
-### ✨ Features
+### ⚙️ Fonctionnalités
 
-- ⚡ Real-time conversations
-- 👤 Online/offline status
-- ✅ Read/unread messages
-- 🗑️ Message delete & update
-- 🔄 Socket.IO rooms
-- 🔍 Search system
-- 🎯 Presence animations
+- Conversations temps réel
+- Statut en ligne/hors ligne
+- Messages lus/non lus
+- Suppression & modification messages
+- Gestion des rooms Socket.IO
+- Recherche conversations/messages
+- Synchronisation temps réel
+- Animations de présence utilisateur
 
-### 🛠️ Stack
+### 📦 Stack
 
 ```txt
 Flutter • Node.js • Socket.IO • MongoDB • Kafka
@@ -201,19 +160,20 @@ Flutter • Node.js • Socket.IO • MongoDB • Kafka
 
 ---
 
-## 📸 Google Photos-like Cloud Sync App
+## 📸 Application type Google Photos (Synchronisation Cloud)
 
-Cloud synchronization mobile application.
+Application Flutter permettant la sauvegarde et synchronisation automatique des photos et vidéos.
 
-### ✨ Features
+### ⚙️ Fonctionnalités
 
-- ☁️ Automatic synchronization
-- 📂 Background uploads
-- 🖼️ Media gallery
-- 🎥 Video & photo management
-- 🚀 Performance optimization
+- Synchronisation automatique
+- Upload arrière-plan
+- Galerie multimédia
+- Gestion vidéos & photos
+- Stockage cloud
+- Optimisation performances
 
-### 🛠️ Stack
+### 📦 Stack
 
 ```txt
 Flutter • Node.js • MongoDB • Cloudinary
@@ -221,19 +181,19 @@ Flutter • Node.js • MongoDB • Cloudinary
 
 ---
 
-## 📋 Offline First Todo App
+## 📋 Todo App Offline First
 
-Task management application with offline persistence.
+Application de gestion de tâches avec architecture 3-tier.
 
-### ✨ Features
+### ⚙️ Fonctionnalités
 
-- ✅ Full CRUD
-- 📱 Offline mode
-- 🔄 Auto synchronization
-- 💾 Local persistence
-- 🌐 Network state management
+- CRUD complet des tâches
+- Stockage local hors ligne
+- Synchronisation serveur
+- Persistance des données
+- Gestion état réseau
 
-### 🛠️ Stack
+### 📦 Stack
 
 ```txt
 Flutter • Laravel API • Local Storage
@@ -241,18 +201,19 @@ Flutter • Laravel API • Local Storage
 
 ---
 
-## 💰 Financial Management App
+## 💰 Application de gestion financière
 
-Personal finance tracking application.
+Application de suivi des dépenses et finances personnelles.
 
-### ✨ Features
+### ⚙️ Fonctionnalités
 
-- 💸 Expense categorization
-- 📊 Financial statistics
-- 📈 Revenue & expense tracking
-- 🧾 Transactions history
+- Catégorisation des dépenses
+- Gestion revenus/dépenses
+- Statistiques financières
+- Historique transactions
+- Gestion catégories dynamiques
 
-### 🛠️ Stack
+### 📦 Stack
 
 ```txt
 Flutter • Laravel • PostgreSQL
@@ -260,90 +221,104 @@ Flutter • Laravel • PostgreSQL
 
 ---
 
-# 🧠 Technical Skills
+## 🌐 API Gateway & Architecture Microservices
 
-<div align="center">
+Conception d’une architecture microservices moderne avec communication événementielle.
 
-| Backend | Frontend | Architecture | DevOps |
-|---|---|---|---|
-| Laravel | Flutter | Microservices | Docker |
-| Node.js | React.js | API Gateway | GitHub Actions |
-| Spring Boot | Next.js | Clean Architecture | CI/CD |
-| Express.js | Tailwind CSS | MVVM | Linux |
+### ⚙️ Réalisations
 
-</div>
+- Mise en place API Gateway
+- Authentification JWT
+- Communication via Kafka
+- Synchronisation services
+- Gestion événements distribués
+- Sécurisation APIs
+- Architecture scalable
+
+### 📦 Technologies
+
+```txt
+Node.js • Laravel • Kafka • PostgreSQL • MongoDB • Docker
+```
 
 ---
 
-# 🎓 Certifications & Education
+# 🧠 Compétences Techniques
 
-<div align="center">
+```txt
+✔ Architecture Microservices
+✔ API REST & JWT
+✔ Socket.IO & Temps réel
+✔ Kafka Event Streaming
+✔ Flutter MVVM
+✔ Clean Architecture
+✔ PostgreSQL & MongoDB
+✔ Docker & Déploiement
+✔ GitHub Actions
+✔ Responsive UI/UX
+✔ GoRouter
+✔ Realm Database
+✔ API Gateway
+```
+
+---
+
+# 🎓 Diplômes & Certifications
 
 <table>
 <tr>
 
-<td align="center" width="33%">
-
-<img width="80" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
-
-### 🎓 Bachelor  
-Développement Web & Mobile
-
+<td align="center">
+<strong>Bachelor Développement Web & Mobile</strong><br>
+<small>Formation Full Stack</small>
 </td>
 
-<td align="center" width="33%">
-
+<td align="center">
 <a href="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw?identity__email=perrinemmanuelnzaou%40gmail.com">
-<img width="80" src="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image"/>
-</a>
-
-### 🧪 Postman API Expert
-
-API Fundamentals Student Expert
-
+<img src="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image" width="80" alt="Postman Badge">
+</a><br>
+<strong>Postman API Fundamentals Student Expert</strong><br>
+<small>Certification API & Testing</small>
 </td>
 
-<td align="center" width="33%">
-
-<img width="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
-
-### 💻 Front-End Development
-
-Frontend Web Certification
-
+<td align="center">
+<strong>Développement Front-End</strong><br>
+<small>Certification Frontend Web</small>
 </td>
 
 </tr>
 </table>
 
-</div>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Kevine-fr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-# 🌍 Connect With Me
+# 📫 Contact
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:keddiantouadi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-keddiantouadi%40gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://github.com/Kevine-fr">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Kevine--fr-black?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/kevine-diantouadi-fray-85a3a0240">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Kevine-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-### ⚡ "Building scalable applications with clean architecture."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kevine-fr&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
