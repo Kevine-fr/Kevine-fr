@@ -1,35 +1,3 @@
-# 👋 Kevine DIANTOUADI-FRAY  
-### Développeur Full Stack Web/Mobile • Flutter • Laravel • Node.js • Microservices
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full+Stack+Developer;Laravel+%26+Node.js+Developer;Microservices+Architecture;Kafka+%7C+Socket.IO+%7C+Docker" />
-</p>
-
----
-
-# 🚀 À propos
-
-Développeur passionné spécialisé dans le développement d’applications **Web, Mobile et Backend** avec une forte orientation vers les architectures modernes :  
-
-- ⚡ Microservices  
-- 🔄 Temps réel avec Socket.IO  
-- 📨 Kafka Event Streaming  
-- 🔐 Authentification JWT  
-- ☁️ Cloud & Déploiement  
-- 📱 Flutter Cross-platform  
-
-Je développe des applications scalables avec :
-
-- **Flutter**
-- **Laravel**
-- **Node.js**
-- **React.js**
-- **PostgreSQL**
-- **MongoDB**
-- **Kafka**
-- **Docker**
-
----
 
 # 📊 GitHub Activity & Stats
 
@@ -60,6 +28,39 @@ Je développe des applications scalables avec :
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kevine-fr&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
+
+---
+
+# 👋 Kevine DIANTOUADI-FRAY  
+### Développeur Full Stack Web/Mobile • Flutter • Laravel • Node.js • Microservices
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full+Stack+Developer;Laravel+%26+Node.js+Developer;Microservices+Architecture;Kafka+%7C+Socket.IO+%7C+Docker" />
+</p>
+
+---
+
+# 🚀 À propos
+
+Développeur passionné spécialisé dans le développement d’applications **Web, Mobile et Backend** avec une forte orientation vers les architectures modernes :  
+
+- ⚡ Microservices  
+- 🔄 Temps réel avec Socket.IO  
+- 📨 Kafka Event Streaming  
+- 🔐 Authentification JWT  
+- ☁️ Cloud & Déploiement  
+- 📱 Flutter Cross-platform  
+
+Je développe des applications scalables avec :
+
+- **Flutter**
+- **Laravel**
+- **Node.js**
+- **React.js**
+- **PostgreSQL**
+- **MongoDB**
+- **Kafka**
+- **Docker**
 
 ---
 
